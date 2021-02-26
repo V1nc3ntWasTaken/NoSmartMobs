@@ -1,0 +1,7 @@
+name: NoSmartMobs
+version: ${project.version}
+main: com.crusadecraft.nosmartmobs.NoSmartMobs
+api-version: 1.16
+authors: [ V1nc3ntWasTaken ]
+description: All living mobs are dumb to prevent wandering mobs in creative worlds
+website: https://crusade-craft.com
