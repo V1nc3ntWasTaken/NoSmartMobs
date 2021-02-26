@@ -2,6 +2,7 @@ package com.crusadecraft.nosmartmobs.listeners;
 
 import com.crusadecraft.nosmartmobs.NoSmartMobs;
 import org.bukkit.Bukkit;
+import org.bukkit.entity.EntityType;
 import org.bukkit.entity.LivingEntity;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
